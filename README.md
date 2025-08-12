@@ -1,8 +1,8 @@
 # TSA_EXP1
 
-### Developed By: 
+### Developed By: Moenish Baalan
 ### Reg No: 212223220057
-###  Date: 
+###  Date: 12.08.2025
 # Ex.No: 01A PLOT A TIME SERIES DATA
 
 # AIM:
