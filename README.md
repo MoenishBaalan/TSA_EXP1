@@ -6,7 +6,8 @@
 # Ex.No: 01A PLOT A TIME SERIES DATA
 
 # AIM:
-To Develop a python program to Plot a time series data (Books & their Publication year)
+To Develop a python program to Plot a time series data 
+
 # ALGORITHM:
 1. Import the required packages like pandas and matplot
 2. Read the dataset using the pandas
